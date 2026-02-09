@@ -53,7 +53,7 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
 * [Datasets](#datasets)
   * [Quick Jumps](#quick-jumps)
   * [Structured Dataset (Mostly Full)](#structured-dataset-full)
-  * [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive)
+  <!-- * [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive) -->
   * [Data Set 1](#data-set-1)
   * [Data Set 2](#data-set-2)
   * [Data Set 3](#data-set-3)
